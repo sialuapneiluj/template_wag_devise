@@ -16,6 +16,7 @@ gem 'simple_form'
 gem 'uglifier'
 gem 'webpacker'
 gem 'tzinfo-data'
+gem 'bcrypt', platforms: :ruby
 group :development do
   gem 'web-console', '>= 3.3.0'
   gem 'binding_of_caller'
